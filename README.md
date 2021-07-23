@@ -1,20 +1,19 @@
 # alternative-music-theory
-There are many different resources to learn different aspects of making music. If you are still struggling to make the kind of music you want to make, Alternative Music Theory may be right for you.
+There are many different resources designed to teach different aspects of making music, mostly based on a traditional approach to music theory. This project provides an alternative approach to learning many of the same concepts in a more holistic manner. If you're tired of the same old structures and just want to make your own music, Alternative Music Theory may be right for you.
 
 
 # Introduction
 
-	There are many
+Historically, there were basically two types of musicians: composers and performers. Sometimes they were one in the same, but often they were different people with different skill sets. In the 20th century a third type of musician was introduced with the invention of sound recording, which we may call generally "producers". This includes job titles such as recording engineer, record producer, mastering engineer, sound mixer, etc.  
 
+Since at least the 1960s or 1970s we have had individual musicians and bands interested in all three aspects - composing a piece of music and then self-recording their own performance of it. It is a more recent trend of blurring the lines between the three aspects completely, making the performance and recording part of the composition process itself. Perhaps the "performance" is done completely within a computer program, or the "recording" is the output of this program to a digital audio file. 
 
-	Reddit users to notify when this is complete (/r/musicproduction):
-	PatronusTheMan
-	espressionez
-	ModernDayRumi
-	kurtcocaine27
-	oyellow1
-	dahunkydorydesi
-	yophozy
+Today, this is a very common and legitimate way music is made; however, the standard cirriculum ignores this. This project is meant for aspiring musicians who are interested in all aspects of making music, including composition, performance and recording. It is designed to expediate the process of making music without alienating them with archiac music theory trivia or waiting until they've spent years mastering their scales before learning how to actually record it with a DAW.
+
+# Getting Started
+	## Get a setup
+	
+	
 
 # Studio Rules
 
