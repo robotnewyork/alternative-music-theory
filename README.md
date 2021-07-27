@@ -61,7 +61,7 @@ Today, this is a very common and legitimate way music is made; however, the stan
 
 # FX
 
-  ## Compression
+  ## Compression - ducking/sidechain, parallel compression
   ## Distortion
   ## Delay
   ## Reverb
