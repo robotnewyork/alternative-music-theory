@@ -49,7 +49,7 @@ Today, this is a very common and legitimate way music is made; however, the stan
 
   ## Mixers
   ## Power Conditioners
-  ## Patchbays
+  ## [Patchbays](/patchbays.md)
   ## Sound Cards
   ## MIDI Signal Path (MIDI IN/OUT/THRU)
   ## Studio Monitors
