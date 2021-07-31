@@ -10,17 +10,9 @@ Since at least the 1960s or 1970s we have had individual musicians and bands int
 
 Today, this is a very common and legitimate way music is made; however, the standard cirriculum ignores this. This project is meant for aspiring musicians who are interested in all aspects of making music, including composition, performance and electronic recording. It is designed to expediate the process of making music without alienating them with archiac music theory trivia or waiting until they've spent years mastering their scales before learning how to actually record it with a DAW.
 
-# Getting Started
-	## Get a setup
-	
-	
+# [Getting Started](/gettingstarted.md)	
 
-# Studio Rules
-
-  ## Plugging In
-  ## Food & Drink
-  ## Cable Handling
-  ## Tape
+# [Studio Tips](/studiotips.md)
 
 # Sound Waves
 
@@ -37,13 +29,6 @@ Today, this is a very common and legitimate way music is made; however, the stan
   ## USB
   ## Inserts
   ## Building Your Own Cables
-
-# Studio Construction
-
-  ## Design (angles)
-  ## Construction
-  ## Wiring
-  ## Foam
 
 # Recording Gear
 
