@@ -31,10 +31,7 @@ Today, this is a very common and legitimate way music is made; however, the stan
   ## MIDI Signal Path (MIDI IN/OUT/THRU)
   ## Studio Monitors
 
-# DAWs (Digital Audio Workstations)
-
-  ## History (Trackers, Tape, Sequencers)
-  ## DAW Programs (Pro Tools, ACID, FL Studio, Cubase, Reaper, Bitwig, Logic Pro, Sonar)
+# [DAWs (Digital Audio Workstations)](/daws.md) 
 
 # FX
 
