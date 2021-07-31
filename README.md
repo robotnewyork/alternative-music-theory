@@ -20,15 +20,7 @@ Today, this is a very common and legitimate way music is made; however, the stan
   ## Volume (amplitude)
   ## Timbre (harmonic series)
 
-# Cables
-
-  ## MIDI
-  ## TS / TRS
-  ## Balanced / Unbalanced
-  ## XLR
-  ## USB
-  ## Inserts
-  ## Building Your Own Cables
+# [Cables](/cables.md)
 
 # Recording Gear
 
