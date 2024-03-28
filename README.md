@@ -107,5 +107,5 @@ Today, this is a very common and legitimate way music is made; however, the stan
 
 
 1. By "standard approach" I mean the typical formal education method used in North American and European primary schools, and what people generally mean when they use the phrase "music lessons", "music tutor", etc.
-2. [Adam Neely - Music Theory and White Supremacy](https://www.youtube.com/watch?v=Kr3quGh7pJA) - Don't get scared by the video title - it's somewhat tongue-in-cheek but is a good overview of some of the problems with the standard approach. For example, Neely suggests we replace the term "music theory" with "the harmonic style of 18th century European musicians".
+2. [Adam Neely - Music Theory and White Supremacy](https://www.youtube.com/watch?v=Kr3quGh7pJA) - Don't get scared by the video title - it is a good overview of some of the problems with the standard approach. For example, Neely suggests we replace the term "music theory" with "the harmonic style of 18th century European musicians".
 3. For example, "blue" notes and the concept of "swing" in jazz and blues.
