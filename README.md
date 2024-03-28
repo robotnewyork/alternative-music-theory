@@ -11,13 +11,13 @@ The standard approach can work well for many students, but I offer a number of c
 - Focused on one-on-one or small group tutoring
 - Myopic in terms of alternative styles or genres - jazz is seen as "add-on" or extension and rock a begrudgingly accepted third-party mod. Other styles like electronic music, Indian classic music or gamelan competing products that are generally ignored.
 - Focus on performing first and composing second may not align with goals of modern musicmakers
-- Can lag behind the times in terms of modern music and technology - no addressing of studio equipment or gear like reverb, delay, compressors, equalizers, etc. 
+- Can lag behind the times in terms of modern music and technology - no addressing of studio equipment or gear like reverb, delay, compressors, equalizers, etc.
+- Concepts of "composer", "performer" and "engineer" are distinct (often the recording aspect is completely absent)
 
-I propose an alternative approach that may work better for some students today:
+I propose an alternative approach that may work better for some students today who are interested in creating and recording modern music.
 
-there were two types of musicians: composers and performers. Sometimes they were one in the same, but often they were different people with different skill sets. In the 20th century a third type of musician emerged with the invention of sound recording, which we may call generally "producers". This includes job titles such as recording engineer, record producer, mastering engineer, sound mixer, etc.  
 
-Since at least the 1960s or 1970s we have had individual musicians and bands interested in all three aspects - composing a piece of music and then self-recording their own performance of it. It is a more recent trend of blurring the lines between the three aspects completely, with the performance and recording understood as part of the composition itself. Perhaps the "performance" is done completely within a computer program, or the "recording" is the output of this program to a digital audio file. 
+Since at least the 1960s musicians interesting in recording have needed to understand all three aspects of recorded music: composition, performance and engineering.  More recently a trend of blurring the lines between the three aspects has come into fashion, with the performance and recording understood as part of the composition itself. Perhaps the "performance" is done completely within a computer program, or the "recording" is the output of this program to a digital audio file. 
 
 Today, this is a very common and legitimate way music is made; however, the standard cirriculum ignores this. This project is meant for aspiring musicians who are interested in all aspects of making music, including composition, performance and electronic recording. It is designed to expediate the process of making music without alienating them with archiac music theory trivia or waiting until they've spent years mastering their scales before learning how to actually record it with a DAW.
 
