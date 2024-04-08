@@ -42,6 +42,7 @@ etc...
 show different symbols for diminished, jazz vs. rock vs classical
 Key signatures
 other scales = blues, bebop, altered
+inversions, slash chords
 
 Rhythm
 Rhythm can be a bit trickier to explain, since it is trying to codify and describe subjective feelings humans have when listening to music. 
