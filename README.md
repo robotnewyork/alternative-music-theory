@@ -21,6 +21,46 @@ Since at least the 1960s musicians interesting in recording have needed to under
 
 Today, this is a very common and legitimate way music is made; however, the standard cirriculum ignores this. This project is meant for aspiring musicians who are interested in all aspects of making music, including composition, performance and electronic recording. It is designed to expediate the process of making music without alienating them with archiac music theory trivia or waiting until they've spent years mastering their scales before learning how to actually record it with a DAW.
 
+# Music Theory
+
+Pitch/frequency from rubber band, pipe, string.
+Humans can hear frequencies from around 20hz to 20khz.
+Half=octave up, double=octave down. Pitch class = all pitches that correspond to the same pitch letter.
+A perfect fifth consists of two pitches with a frequency ratio of 3:2, and generating twelve successive perfect fifths in this way *nearly* results in a return to the pitch class of the starting note. (explain temperaments later)
+Define interval
+Whole step, half step.
+The major scale is the scale that Western music theory is based on, and is 8 notes spanning an octave with intervals W-W-H-W-W-W-H.
+Starting on C, the major scale results in C-D-E-F-G-A-B-C, using no sharp or flat note names, and all white keys on the piano.
+Minor scale
+
+Building chords
+Major
+minor (harmonic, melodic, natural)
+7th (maj/min)
+6th
+etc... 
+show different symbols for diminished, jazz vs. rock vs classical
+Key signatures
+other scales = blues, bebop, altered
+
+Rhythm
+Rhythm can be a bit trickier to explain, since it is trying to codify and describe subjective feelings humans have when listening to music. 
+Beat
+Measure/bar
+Time signatures
+
+Terms and ligatures
+legato
+staccato
+ritard
+accelerando
+fermata
+coda
+repeat 
+clef/grand staff (treble clef=G clef, bass clef=F clef)
+etc.
+
+
 # [Getting Started](/gettingstarted.md)	
 
 # [Studio Tips](/studiotips.md)
