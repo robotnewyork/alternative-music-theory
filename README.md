@@ -50,7 +50,7 @@ Beat
 Measure/bar
 Time signatures
 
-Terms and ligatures
+Terms and ligatures (dotted notes, stems, pizzacato, accent types)
 legato
 staccato
 ritard
@@ -59,6 +59,7 @@ fermata
 coda
 repeat 
 clef/grand staff (treble clef=G clef, bass clef=F clef)
+
 etc.
 
 
